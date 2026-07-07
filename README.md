@@ -9,10 +9,15 @@ The Capsicum Plant Disease Detection project is an AI-powered image classificati
 To develop an intelligent image classification system that accurately detects diseases in capsicum plants using deep learning and provides quick, reliable predictions from leaf images.
 
 🚀 Features
+
 Detects healthy and diseased capsicum leaves.
+
 Image-based disease prediction.
+
 User-friendly interface for uploading leaf images.
+
 Fast and accurate predictions.
+
 Supports early disease diagnosis for better crop management.
 
 🛠️ Technologies Used

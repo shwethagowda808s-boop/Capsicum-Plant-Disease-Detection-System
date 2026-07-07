@@ -1,6 +1,6 @@
  # 🌱 AI-Based Capsicum Plant Disease Detection System
  AI-Based Capsicum Plant Disease Detection System
-📌 Project Overview
+# 📌 Project Overview
 
 The Capsicum Plant Disease Detection project is an AI-powered image classification system that identifies diseases in capsicum (bell pepper) plants from leaf images. The application leverages deep learning to assist in early disease detection, enabling farmers and agricultural professionals to take timely preventive measures and improve crop productivity.
 
@@ -20,23 +20,37 @@ Fast and accurate predictions.
 
 Supports early disease diagnosis for better crop management.
 
+
 🛠️ Technologies Used
+
 Python
+
 TensorFlow
+
 Keras
+
 MobileNetV2
+
 NumPy
+
 Google Colab
 
 🧠 Deep Learning Model
+
 This project uses MobileNetV2, a lightweight and efficient Convolutional Neural Network (CNN) architecture optimized for image classification tasks. Transfer learning was applied by using the pre-trained MobileNetV2 model and fine-tuning it for capsicum plant disease detection, resulting in improved accuracy and faster training.
 
 📊 Model Performance
+
 Model: MobileNetV2 (Transfer Learning)
+
 Training Accuracy: 99%
+
 Validation Accuracy: 98%
+
 Loss Function: Binary Cross-Entropy
+
 Optimizer: Adam
+
 Evaluation Metric: Accuracy
 
 Project Workflow

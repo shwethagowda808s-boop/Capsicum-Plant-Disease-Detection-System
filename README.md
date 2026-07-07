@@ -10,7 +10,7 @@ To develop an intelligent image classification system that accurately detects di
 
 # 🚀 Features
 
-.Detects healthy and diseased capsicum leaves.
+Detects healthy and diseased capsicum leaves.
 
 Image-based disease prediction.
 
@@ -21,7 +21,7 @@ Fast and accurate predictions.
 Supports early disease diagnosis for better crop management.
 
 
-🛠️ Technologies Used
+# 🛠️ Technologies Used
 
 Python
 
@@ -35,11 +35,12 @@ NumPy
 
 Google Colab
 
-🧠 Deep Learning Model
+
+# 🧠 Deep Learning Model
 
 This project uses MobileNetV2, a lightweight and efficient Convolutional Neural Network (CNN) architecture optimized for image classification tasks. Transfer learning was applied by using the pre-trained MobileNetV2 model and fine-tuning it for capsicum plant disease detection, resulting in improved accuracy and faster training.
 
-📊 Model Performance
+# 📊 Model Performance
 
 Model: MobileNetV2 (Transfer Learning)
 
@@ -53,16 +54,23 @@ Optimizer: Adam
 
 Evaluation Metric: Accuracy
 
-Project Workflow
+# Project Workflow
+
 Input Leaf Image
+
 Image Preprocessing
+
 Image Resizing & Normalization
+
 Feature Extraction (MobileNetV2)
+
 Disease Classification
+
 Prediction Generation
+
 Result Display (Healthy/Diseased)
 
-▶️ How to Run the Project
+# ▶️ How to Run the Project
 Clone this repository.
 
 Install the required dependencies:
@@ -72,16 +80,23 @@ pip install -r requirements.txt
 Run the application:
 
 python app.py
+
 Upload a capsicum leaf image.
+
 The system will predict whether the leaf is healthy or diseased.
 
-🌱 Future Enhancements
+# 🌱 Future Enhancements
+
 Increase model accuracy with a larger and more diverse dataset.
+
 Detect multiple capsicum diseases.
+
 Provide treatment recommendations based on the detected disease.
+
 Deploy the model as a web or mobile application.
+
 Extend support to additional crop diseases.
 
-👩‍💻 Author
+# 👩‍💻 Author
 Shwetha H A
 BCA Graduate | Python • AI/ML Enthusiast
